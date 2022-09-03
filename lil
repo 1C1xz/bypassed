@@ -1,0 +1,17 @@
+while true do
+    wait(1)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("ALL FURRYS R GAY "  ,"All")
+wait(0.3)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("LOL GAYS" ,"All")
+wait(0.5)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("IMAGINE BEING GAY LOL" ,"All")
+wait(3)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("GUYS REPORT ME OR UR BLACK" ,"All")
+wait(2.6)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("FJA GGJJOT" ,"All")
+wait(2.6)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("GAY 12 YEAR OLD" ,"All")
+wait(1.9)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("GAY " ,"All")
+wait(2)
+end
